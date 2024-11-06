@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.app h1 {
+  text-align: center;
+  color: #333;
+}
